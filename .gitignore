@@ -1,0 +1,21 @@
+# Windows / Python
+windows/.venv/
+windows/build/
+windows/dist/
+windows/dist_pasta/
+windows/backups/
+**/registro.log
+__pycache__/
+*.pyc
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+*.iml
+
+# Sistema
+.DS_Store
+Thumbs.db

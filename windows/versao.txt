@@ -1,0 +1,18 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(filevers=(1, 0, 0, 0), prodvers=(1, 0, 0, 0), mask=0x3f, flags=0x0, OS=0x40004,
+                    fileType=0x1, subtype=0x0, date=(0, 0)),
+  kids=[
+    StringFileInfo([
+      StringTable('041604B0', [
+        StringStruct('CompanyName', 'Manutencao de Impressoras'),
+        StringStruct('FileDescription', 'Manutencao de impressoras Epson: reset de almofadas, limpeza e teste de jatos'),
+        StringStruct('FileVersion', '1.0.0.0'),
+        StringStruct('InternalName', 'ManutencaoEpson'),
+        StringStruct('LegalCopyright', 'Uso interno de assistencia tecnica'),
+        StringStruct('OriginalFilename', 'ManutencaoEpson.exe'),
+        StringStruct('ProductName', 'Manutencao Epson'),
+        StringStruct('ProductVersion', '1.0.0.0')])
+    ]),
+    VarFileInfo([VarStruct('Translation', [0x0416, 1200])])
+  ]
+)
